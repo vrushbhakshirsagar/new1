@@ -31,4 +31,4 @@ else:
     result = "Invalid operator"
 
 # Display the result
-print(f"Result: {result}")
+print(f"Result is: {result}")
